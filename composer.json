@@ -2,13 +2,14 @@
     "name": "forfun/fun_dt",
     "description": "Adjusting DateTime functionality",
     "keywords": ["date", "time", "fun", "dt"],
-    "type": "project",
+    "type": "library",
     "authors": [
         {
             "name": "Alex Anisimov",
             "email": "a.aleksu@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-0": {
