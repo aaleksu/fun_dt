@@ -1,0 +1,18 @@
+{
+    "name": "forfun/fun_dt",
+    "description": "Adjusting DateTime functionality",
+    "keywords": ["date", "time", "fun", "dt"],
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alex Anisimov",
+            "email": "a.aleksu@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "ForFun\\FunDt": "src/"
+        }
+    }
+}
